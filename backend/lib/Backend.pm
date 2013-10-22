@@ -1,3 +1,9 @@
+#
+# This is the backend component of catmus
+#
+# $Id$
+#
+
 package Backend;
 use Mojo::Base 'Mojolicious';
 

@@ -10,4 +10,12 @@ front-end and back-end web development.
 The current back-end is being built in Perl using Mojolicious. The
 front-end I intend to build using Bootstrap.
 
-Oct 21, 2013
+   Mojolicious
+   http://mojolicio.us/
+   
+   Bootstrap
+   http://getbootstrap.com/
+
+Paul
+
+$Id$
